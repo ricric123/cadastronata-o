@@ -69,7 +69,7 @@ int mediaIdades(){
 main(){
 	setlocale(LC_ALL, "");
 	
-	int op, pos;
+	int op, pos, media;
 	char nome[80];
 	
 	//inicializar contAlunos
